@@ -1,0 +1,3 @@
+[submodule "googlemaps"]
+	path = googlemaps
+	url = https://github.com/krausedj/google-maps-services-python.git
